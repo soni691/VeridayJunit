@@ -1,0 +1,13 @@
+2021-04-08 18:30:58 INFO  ********* Starting Test Execution. ***********
+2021-04-08 18:31:07 INFO  ****************************
+2021-04-08 18:31:07 INFO  Scenario : Validate Digital Workspace options scenario
+2021-04-08 18:31:07 INFO  Scenario start time: 2021-04-08 18:31:07
+2021-04-08 18:31:07 INFO  Launching web application URL: http://node-1.nginx.portal.da-1.clic.qa.aws.veriday.net/login
+2021-04-08 18:31:18 INFO  Writing 'da.client.admin@veriday.com' into web-element: [[ChromeDriver: chrome on XP (9cc572cb07fe8dd6d090e88b0a9167c4)] -> xpath: //input[@id='A5755:loginForm:email']]
+2021-04-08 18:31:18 INFO  Waiting for the element to be visible : [[ChromeDriver: chrome on XP (9cc572cb07fe8dd6d090e88b0a9167c4)] -> xpath: //input[@id='A5755:loginForm:email']]
+2021-04-08 18:31:18 INFO  Writing 'Test12345' into web-element: [[ChromeDriver: chrome on XP (9cc572cb07fe8dd6d090e88b0a9167c4)] -> xpath: //input[@id='A5755:loginForm:password']]
+2021-04-08 18:31:18 INFO  Waiting for the element to be visible : [[ChromeDriver: chrome on XP (9cc572cb07fe8dd6d090e88b0a9167c4)] -> xpath: //input[@id='A5755:loginForm:password']]
+2021-04-08 18:31:19 INFO  Clicking on web-element: [[ChromeDriver: chrome on XP (9cc572cb07fe8dd6d090e88b0a9167c4)] -> xpath: //input[@id='A5755:loginForm:login']]
+2021-04-08 18:31:19 INFO  Waiting for the element to be visible : [[ChromeDriver: chrome on XP (9cc572cb07fe8dd6d090e88b0a9167c4)] -> xpath: //input[@id='A5755:loginForm:login']]
+2021-04-08 18:31:19 INFO  Waiting for the element to be clickable : [[ChromeDriver: chrome on XP (9cc572cb07fe8dd6d090e88b0a9167c4)] -> xpath: //input[@id='A5755:loginForm:login']]
+2021-04-08 18:31:19 INFO  Clicked on web-element: [[ChromeDriver: chrome on XP (9cc572cb07fe8dd6d090e88b0a9167c4)] -> xpath: //input[@id='A5755:loginForm:login']]
