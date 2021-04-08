@@ -1,6 +1,6 @@
 package com.BlueBird.PageObject.adminHQ;
 
-import static org.testng.Assert.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
